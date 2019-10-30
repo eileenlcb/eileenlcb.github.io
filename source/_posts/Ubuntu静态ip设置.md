@@ -4,10 +4,10 @@ date: 2019-09-26 17:51:38
 tags: 总结
 ---
 
-1.通过ifconfig查询本机网络接口，比如`enp7s0`
+1.通过~~ifconfig~~``ip link show``查询本机网络接口，比如`enp7s0`
 
 2.打开网络修改文件 
-`sudo gedit /etc/network/interfaces`，修改以下部分
+`sudo gedit /etc/network/interfaces`，增加以下部分
 ```
 auto enp7s0
 iface enp7s0 inet static
