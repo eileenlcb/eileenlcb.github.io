@@ -1,6 +1,7 @@
 ---
 title: Ubuntu静态ip设置
 date: 2019-09-26 17:51:38
+password: lcb.771383
 tags: 总结
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: OpenGL学习
 date: 2019-08-12 09:40:54
+password: lcb.771383
 tags: 学习
 ---
 

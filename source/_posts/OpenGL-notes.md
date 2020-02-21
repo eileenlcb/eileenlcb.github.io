@@ -1,6 +1,7 @@
 ---
 title: "OpenGL notes"
 date: 2019-10-30 01:24:45
+password: lcb.771383
 tags: 学习
 ---
 
